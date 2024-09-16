@@ -1,0 +1,14 @@
+{
+    "name": "lucas/mini-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lucas Brevi"
+        }
+    ],
+    "require": {}
+}
